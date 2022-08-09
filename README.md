@@ -5,3 +5,4 @@ Pruebiña de esto de git push y pull. Esto lo cambio y lo subo al repositorio re
 las game
 prueba para el uso de git pull y git push en el repositorio remoto
 Mira de verdad ulyima prueba y me voy
+YA TA BIEN
