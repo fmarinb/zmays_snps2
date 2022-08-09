@@ -6,3 +6,4 @@ las game
 prueba para el uso de git pull y git push en el repositorio remoto
 Mira de verdad ulyima prueba y me voy
 YA TA BIEN
+a domir
